@@ -25,7 +25,7 @@ slides: ""
 ---
 
 <figure>
-    <img src="/project/story2animation/system_overview.png" alt="system overview" />
+    <img src="/project/story2animation/system_overview.jpg" alt="system overview" />
     <figcaption>Figure 1. Synthesis Pipeline</figcaption>
 </figure>
 
