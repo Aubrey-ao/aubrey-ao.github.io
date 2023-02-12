@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Tenglong Ao</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><image><url>/media/icon_hu4adf16b030669e44aa460e9b3baddd50_53377_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>/project/</link></image><item><title>Animation Synthesis from Story Scripts</title><link>/project/story2animation/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>/project/story2animation/</guid><description>&lt;figure>
-&lt;img src="http://localhost:1313/project/story2animation/system_overview.png" alt="system overview" />
+&lt;img src="/project/story2animation/system_overview.png" alt="system overview" />
 &lt;figcaption>Figure 1. Synthesis Pipeline&lt;/figcaption>
 &lt;/figure>
 &lt;p>As shown in Figure 1, we develop an automated production tool that can efficiently generate animations from natural language-described story scripts. The synthesis pipeline contains two stages:&lt;/p>
