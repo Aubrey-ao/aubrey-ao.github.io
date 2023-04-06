@@ -68,7 +68,7 @@ To attain this goal, I joined a startup team from 2019 to 2021 and helped develo
 
 
 
-Recently, I am engaged in exploring a preliminary solution path from the academic perspective. My current work focuses on a core sub-module of the script-to-animation system: **audio/text-driven human behavior motion synthesis, such as gesture generation**.
+Recently, I am engaged in exploring a preliminary solution path from the academic perspective. My current work focuses on a core sub-module of the script-to-animation system: **audio/text-driven human behavior motion synthesis, such as gesture generation**. 
 
 <br/>
 
