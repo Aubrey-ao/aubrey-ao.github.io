@@ -4,7 +4,7 @@ on: push
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ${{ fromJSON('["ubuntu-latest", "self-hosted"]')[github.repository == 'github/docs-internal'] }}
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
