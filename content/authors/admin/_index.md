@@ -6,7 +6,7 @@ title: Tenglong Ao 敖腾隆
 superuser: true
 
 # Role/position/tagline
-role: Master Student
+role: Ph.D Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -56,7 +56,7 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a master student at [Peking University](https://english.pku.edu.cn/), advised by [Prof. Libin Liu](http://libliu.info/). I received my B.S. degree in electronic engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
+I am a Ph.D student at [Peking University](https://english.pku.edu.cn/), advised by [Prof. Libin Liu](http://libliu.info/). I received my B.S. degree in electronic engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
 
 
 
