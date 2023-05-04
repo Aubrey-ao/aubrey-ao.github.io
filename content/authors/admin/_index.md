@@ -77,3 +77,10 @@ Recently, I am engaged in exploring a preliminary solution path from the academi
 * [Baoquan Chen](http://baoquanchen.info/)
 * [Qingzhe Gao](https://talegqz.github.io/)
 * [Yuke Lou](https://thorin666.github.io/)
+* Zeyi Zhang
+
+<br/>
+
+**<font size=5>Talks</font>**:
+
+[GAMES Webinar (20230414)](https://www.bilibili.com/video/BV1qo4y187ex/)
