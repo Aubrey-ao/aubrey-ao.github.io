@@ -78,6 +78,9 @@ Recently, I am engaged in exploring a preliminary solution path from the academi
 * [Qingzhe Gao](https://talegqz.github.io/)
 * [Yuke Lou](https://thorin666.github.io/)
 * Zeyi Zhang
+* [Heyuan Yao](https://heyuanyao-pku.github.io/)
+* [Zhenhua Song](https://songzhenhua.cn/)
+* [Yuyang Zhou](https://zhouyuyang2002.github.io/)
 
 <br/>
 
