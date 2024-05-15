@@ -6,7 +6,7 @@ title: Tenglong Ao 敖腾隆
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student
+role: Ph.D Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -74,10 +74,10 @@ Recently, I am engaged in exploring a preliminary solution path from the academi
 
 **<font size=5>Collaborators</font>**:
 
+* [Zeyi Zhang](https://lumen-ze.github.io/)
 * [Baoquan Chen](http://baoquanchen.info/)
 * [Qingzhe Gao](https://talegqz.github.io/)
 * [Yuke Lou](https://thorin666.github.io/)
-* Zeyi Zhang
 * [Heyuan Yao](https://heyuanyao-pku.github.io/)
 * [Zhenhua Song](https://songzhenhua.cn/)
 * [Yuyang Zhou](https://zhouyuyang2002.github.io/)
