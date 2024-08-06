@@ -60,15 +60,11 @@ I am a Ph.D student at [Peking University](https://english.pku.edu.cn/), advised
 
 
 
-My ultimate goal is to create **a production-ready system capable of generating film-quality animation from natural language scripts**. 
+Recently, my interests include:
 
-
-
-To attain this goal, I joined a startup team from 2019 to 2021 and helped develop a language-assisted animation creation product that enables users (e.g., Tiktokers and kids) to effortlessly create simple animations by specifying natural language-described story scripts. You can view some demos [here](/project/story2animation/).
-
-
-
-Recently, I am engaged in exploring a preliminary solution path from the academic perspective. My current work focuses on a core sub-module of the script-to-animation system: **audio/text-driven human behavior motion synthesis, such as gesture generation**. 
+* **Long Story Script-to-Video Generation:** I joined a startup team from 2019 to 2021 and helped develop a language-assisted animation creation product that enables users (e.g., Tiktokers and kids) to effortlessly create simple animations by specifying natural language-described story scripts. You can view some demos [here](/project/story2animation/).
+* **Human Motion Synthesis:** e.g., [co-speech gesture synthesis](https://github.com/Aubrey-ao/HumanBehaviorAnimation).
+* **Interactive Humanoid Agent:** e.g., ["Body of Her" blog](https://aubrey-ao.github.io/BodyOfHer/): a human-centric entry point for interactive world simulators.
 
 <br/>
 
