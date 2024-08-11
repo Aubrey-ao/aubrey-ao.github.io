@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes:
 -
-- "Leader of the Graphics Algorithm Group"
+- "Graphics Algorithm Lead"
 
 
 date: "2021-09-01T00:00:00Z"
