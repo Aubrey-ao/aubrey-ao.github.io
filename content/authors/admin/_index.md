@@ -62,7 +62,7 @@ I am a Ph.D student at [Peking University](https://english.pku.edu.cn/), advised
 
 Recently, my interests include:
 
-* **Interactive Humanoid Agent:** e.g., ["Body of Her" blog](https://aubrey-ao.github.io/BodyOfHer/): a human-centric entry point for interactive world simulators.
+* **"Her":** e.g., ["Body of Her" blog](https://aubrey-ao.github.io/BodyOfHer/): a human-centric entry point for interactive world simulators.
 * **Human Motion Synthesis:** e.g., [co-speech gesture synthesis](https://github.com/Aubrey-ao/HumanBehaviorAnimation).
 * **Long Story Script-to-Video Generation:** I joined a startup team from 2019 to 2021 and helped develop a language-assisted animation creation product that enables users (e.g., Tiktokers and kids) to effortlessly create simple animations by specifying natural language-described story scripts. You can view some demos [here](/project/story2animation/).
 
