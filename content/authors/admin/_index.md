@@ -6,12 +6,12 @@ title: Tenglong Ao 敖腾隆
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate
+role: Ph.D
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Peking University
-  url: https://english.pku.edu.cn/
+# - name: Peking University
+#   url: https://english.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -56,30 +56,11 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-I am a Ph.D student at [Peking University](https://english.pku.edu.cn/), advised by [Prof. Libin Liu](http://libliu.info/). I received my B.S. degree in electronic engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
-
-
-
-Recently, my interests include:
-
-* **"Her":** e.g., ["Body of Her" blog](https://aubrey-ao.github.io/BodyOfHer/): a human-centric entry point for interactive world simulators.
-* **Human Motion Synthesis:** e.g., [co-speech gesture synthesis](https://github.com/Aubrey-ao/HumanBehaviorAnimation).
-* **Long Story Script-to-Video Generation:** I joined a startup team from 2019 to 2021 and helped develop a language-assisted animation creation product that enables users (e.g., Tiktokers and kids) to effortlessly create simple animations by specifying natural language-described story scripts. You can view some demos [here](/project/story2animation/).
+Ph.D in computer science from [Peking University](https://english.pku.edu.cn/). B.S. degree in electronic engineering from [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
 
 <br/>
 
-**<font size=5>Collaborators</font>**:
+Some work:
 
-* [Zeyi Zhang](https://lumen-ze.github.io/)
-* [Baoquan Chen](http://baoquanchen.info/)
-* [Qingzhe Gao](https://talegqz.github.io/)
-* [Yuke Lou](https://thorin666.github.io/)
-* [Heyuan Yao](https://heyuanyao-pku.github.io/)
-* [Zhenhua Song](https://songzhenhua.cn/)
-* [Yuyang Zhou](https://zhouyuyang2002.github.io/)
-
-<br/>
-
-**<font size=5>Talks</font>**:
-
-[GAMES Webinar (20230414)](https://www.bilibili.com/video/BV1qo4y187ex/)
+* [Body of Her](https://aubrey-ao.github.io/BodyOfHer/): a real-time, full-duplex, multimodal autoregressive model for voice and video.
+* Graphics Animation: [Co-Speech Gesture Synthesis](https://github.com/Aubrey-ao/HumanBehaviorAnimation) (SIGGRAPH (Asia)'22 Best Paper & SIGGRAPH (NA)'23 Best Paper Honorable Mention); [Visual Storyteller](/project/story2animation/) (startup, storytelling animation maker).
